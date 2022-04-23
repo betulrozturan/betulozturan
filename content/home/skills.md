@@ -20,15 +20,6 @@ feature:
     name: Photography
 ---
 {{< icon name="chart-line" pack="fas" name: "Statistics" >}} 
-
-icon: r-project
-icon_pack: fab
-name: R
-
-icon: python
-icon_pack: fab
-name: Python
-
-icon: sql
-icon_pack: fab
-name: SQL
+{{< icon name="r-project" pack="fas" name: "R" >}} 
+{{< icon name="python" pack="fas" name: "Python" >}} 
+{{< icon name="sql" pack="fas" name: "SQL" >}} 
