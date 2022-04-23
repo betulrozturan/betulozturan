@@ -19,9 +19,7 @@ feature:
     icon_pack: fas
     name: Photography
 ---
-icon: chart-line
-icon_pack: fas
-name: Statistics
+{{< icon name="chart-line" pack="fas" name: "Statistics" >}} 
 
 icon: r-project
 icon_pack: fab
