@@ -21,29 +21,35 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: CEO
-    company: GenCoin
+Featured experience:
+
+  - title: PhD Researcher at Western Jihadism Project
+    company: Prof.Dr.Jytte Klausen, Brandeis University
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Waltham, MA
+    date_start: '2022-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Data collection
+        * Data management using SQL
+        * Data analysis and visualization using Python and R
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant at Development Research Group
+    company: Prof.Dr.Anke Hoeffler, University of Konstanz
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+    location: Konstanz, Germany
+    date_start: '2020-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Data collection
+        * Data management 
+        * Data analysis
 
 design:
   columns: '2'
