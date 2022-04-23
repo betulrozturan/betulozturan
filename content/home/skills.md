@@ -2,19 +2,19 @@
 widget: featurette
 widget_id: Skills
 headless: true
-weight: 40
+weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 
+  - description: null
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 
+  - description: null
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 
+  - description: null
     icon: python
     icon_pack: fab
     name: Python
