@@ -8,21 +8,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "/#contact mailto: betulozturan@brandeis.edu"
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/betulozturan
   - display:
       header: false
     link: https://github.com/betulrozturan
     icon_pack: fab
-    icon: GitHub
+    icon: github
   - display:
       header: false
     link: https://twitter.com/betulrozturan
-    icon_pack: fas
+    icon_pack: fab
     icon: twitter
 organizations:
   - name: Brandeis University
@@ -41,7 +38,7 @@ education:
     - course: BA in Political Science and International Relations
       institution: Bogazici University
       year: 2018
-email: ""
+email: betulozturan@brandeis.edu
 superuser: true
 highlight_name: true
 ---
