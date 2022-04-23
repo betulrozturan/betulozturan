@@ -1,5 +1,5 @@
 ---
-title: Betül Özturan
+title: Betül O
 role: PhD Student
 bio: My research interests include computational social science and political
   violence.
