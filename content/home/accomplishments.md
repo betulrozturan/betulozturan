@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: nondegree
 
 # This file represents a page section.
 headless: true
@@ -23,11 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-
-Non-degree:
-
-Summer School in Russian Energy Policy & International Energy Cooperation 2019
-MGIMO, Moscow, Russia
 - certificate_url: https://sicss.io/
   date_end: ""
   date_start: "2020-06-25"
