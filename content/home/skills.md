@@ -19,25 +19,3 @@ feature:
     icon_pack: fas
     name: Photography
 ---
-```yaml
-icon: chart-line
-icon_pack: fas
-name: Statistics
-
-icon: r-project
-icon_pack: fab
-name: R
-
-icon: python
-icon_pack: fab
-name: Python
-
-icon: sql
-icon_pack: fab
-name: SQL
-  
-  
-
-
-
-```
