@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: "/#contact mailto: betulozturan@brandeis.edu"
+    link: mailto:betulozturan@brandeis.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/betulozturan
