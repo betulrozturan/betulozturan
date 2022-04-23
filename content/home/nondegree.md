@@ -1,45 +1,32 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: nondegree
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 50
-
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Non- Degree'
-subtitle:
-
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
-
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://sicss.io/
-  date_end: ""
-  date_start: "2020-06-25"
-  description: "Partner event of the SICSS at Duke University supported by Kadir Has University, Istanbul, Turkey"
-  organization: Coursera
-  organization_url: https://sicss.io/
-  title: Summer Institute in Computational Social Science (SICSS)
-  url: "https://sicss.io/2020/istanbul/"
-- certificate_url: https://www.summerschoolmgimo.ru/
-  date_end: ""
-  date_start: "2019-06-01"
-  description: 
-  organization: MGIMO, Moscow, Russia
-  organization_url: https://www.summerschoolmgimo.ru/
-  title: Summer School in Russian Energy Policy & International Energy Cooperation
-  url: ""
-
+  - certificate_url: https://sicss.io/
+    date_end: ""
+    date_start: 2020-06-25
+    description: Partner event of the SICSS at Duke University supported by Kadir
+      Has University, Istanbul, Turkey
+    organization: Coursera
+    organization_url: https://sicss.io/
+    title: Summer Institute in Computational Social Science (SICSS)
+    url: https://sicss.io/2020/istanbul/
+  - certificate_url: https://www.summerschoolmgimo.ru/
+    date_end: ""
+    date_start: 2019-06-01
+    description: null
+    organization: MGIMO, Moscow, Russia
+    organization_url: https://www.summerschoolmgimo.ru/
+    title: Summer School in Russian Energy Policy & International Energy Cooperation
+    url: ""
+widget_id: Non-Degree
+headless: true
+weight: 50
+title: Non- Degree
+subtitle: null
 design:
-  columns: '2' 
+  columns: "2"
 ---
+SICSS
+
+MGIMO
