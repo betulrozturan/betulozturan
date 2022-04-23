@@ -25,8 +25,8 @@ social:
     icon_pack: fas
     icon: twitter
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Brandeis University
+    url: ""
 education:
   courses:
     - course: PhD in Politics
@@ -35,12 +35,12 @@ education:
     - course: M.A. in Politics and Public Administration
       institution: Universität Konstanz
       year: 2021
+    - course: M.A. in International Security Studies
+      institution: Charles University, Prague
+      year: 2021
     - course: BA in Political Science and International Relations
       institution: Bogazici University
       year: 2018
-    - course: M.A. in International Security Studies
-      institution: Charles University, Prague
-      year: 2020
 email: ""
 superuser: true
 highlight_name: true
